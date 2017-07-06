@@ -12,7 +12,7 @@ categories:
 
 <p class="music-read"><a href="spotify:track:4DAZ8UYNpWVIV46aLkN2Qp">Music for reading (spotify)</a></p>
 
-<img src="https://raw.githubusercontent.com/backd0or/backd00r/master/assets/img/sharding-gerenciamento-usuarios/image.png">
+<img src="">
 
 ## How, why and when.
 
