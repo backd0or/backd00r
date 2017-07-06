@@ -5,7 +5,7 @@ baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://backd00r.ca" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: backd00r
-user_title: Lorem Ipsum - FrontEnd
+user_title: backd00r
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
 github_username:  backd0or
