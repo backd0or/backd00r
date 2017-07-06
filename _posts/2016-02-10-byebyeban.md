@@ -37,12 +37,12 @@ Unbanning tool that works with iosuhax has been developed, enjoy!
 ### GUIDE
 
 * Run the Wii U client provided, if a black screen occurs it's working correctly.
-* Run the PC tool (AS ADMIN VERY IMPORTANT) and input your Wii U's ip
+* Run the PC tool (AS ADMIN VERY IMPORTANT) and input your Wii U's ip 
 * Restart your Wii U
 
 ### Downloads
 
-PC UNBANNER : https://ufile.io/1yacp
+PC UNBANNER : https://ufile.io/2aaeg
 
 WII U CLIENT : https://ufile.io/ho2uq
 
