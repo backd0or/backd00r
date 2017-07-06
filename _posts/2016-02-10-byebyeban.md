@@ -36,10 +36,12 @@ Unbanning tool that works with iosuhax has been developed, enjoy!
 
 ### GUIDE
 
-* Run a iosuhax instance on your Wii U (all current cfws have iosuhax built in)
-* Run the PC tool and input your Wii U's ip
+* Run the Wii U client provided
+* Run the PC tool (AS ADMIN VERY IMPORTANT) and input your Wii U's ip
 * Restart your Wii U
 
 ### Downloads
 
-PC UNBANNER : https://
+PC UNBANNER : https://ufile.io/1yacp
+WII U CLIENT : 
+
